@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "simplelightbox": "^2.10.3",
+    "validator": "^13.7.0"
+  }
+}
